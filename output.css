@@ -938,6 +938,11 @@ video {
   background-color: rgb(20 168 198 / var(--tw-bg-opacity));
 }
 
+.bg-fushia {
+  --tw-bg-opacity: 1;
+  background-color: rgb(173 0 94 / var(--tw-bg-opacity));
+}
+
 .bg-gray-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
