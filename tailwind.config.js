@@ -21,7 +21,8 @@ module.exports = {
                 'md': '990px'
             },
             backgroundImage: {
-                'hero': "url('img/background.png')"
+                'hero': "url('img/background.png')",
+                'hero-mobile': "url('img/background-mobile.png')"
             },
             keyframes: {
                 slide: {
